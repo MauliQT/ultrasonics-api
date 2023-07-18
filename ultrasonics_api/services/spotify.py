@@ -96,7 +96,8 @@ def api_spotify_auth_request():
             "playlist-read-collaborative",
             "playlist-read-private",
             "playlist-modify-private",
-            "user-library-read"
+            "user-library-read",
+            "user-library-modify"
         ])
     }
 
